@@ -1,0 +1,16 @@
+
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«È¥ùüÿÿÿÿ8î„¥1
+C
+java:S1170"!Make this final field static too.(Û·Äúÿÿÿÿ8÷„¥1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Æ‡‚ƒÿÿÿÿÿ8ù„¥1
+J
+java:S1172'".Remove this unused method parameter "counter".(ı¾÷f8ú„¥1
+T
+java:S1135&"2Complete the task associated to this TODO comment.(Å¡Éüÿÿÿÿ8ú„¥1
+G	java:S106*"+Replace this use of System.out by a logger.(ï—æ8ú„¥1
+G	java:S106+"+Replace this use of System.out by a logger.(Ü‰’‡8ú„¥1
+I
+java:S1068"-Remove this unused "foodstand" private field.(¤‘Úv8ú„¥1
+H
+java:S1068"+Remove this unused "counter" private field.(Ê¤¼À8ú„¥1
