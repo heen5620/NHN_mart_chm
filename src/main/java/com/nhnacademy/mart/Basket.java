@@ -12,4 +12,8 @@ public class Basket {
     public ArrayList<Food> getFoods(){
         return foods;
     }
+
+    public int getItemCount() {
+        return foods.size();
+    }
 }

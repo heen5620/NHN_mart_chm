@@ -260,3 +260,6 @@
 2023-09-02 22:23:00,215 [main] INFO c.n.m.NhnMartShell [Customer.java:47] - 고객님 결제 후 잔액: 6000
 2023-09-02 22:23:32,070 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:14] - NHN Mart에 오신것을 환영합니다.
 2023-09-02 23:18:38,111 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:14] - NHN Mart에 오신것을 환영합니다.
+2023-09-03 00:20:36,719 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:14] - NHN Mart에 오신것을 환영합니다.
+2023-09-03 00:20:45,528 [main] INFO c.n.m.NhnMartShell [Customer.java:40] - 총 가격은 14000 입니다
+2023-09-03 00:20:45,530 [main] INFO c.n.m.NhnMartShell [Customer.java:45] - 고객님 결제 후 잔액: 6000
