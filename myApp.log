@@ -263,3 +263,10 @@
 2023-09-03 00:20:36,719 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:14] - NHN Mart에 오신것을 환영합니다.
 2023-09-03 00:20:45,528 [main] INFO c.n.m.NhnMartShell [Customer.java:40] - 총 가격은 14000 입니다
 2023-09-03 00:20:45,530 [main] INFO c.n.m.NhnMartShell [Customer.java:45] - 고객님 결제 후 잔액: 6000
+2023-09-03 00:51:01,287 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:14] - NHN Mart에 오신것을 환영합니다.
+2023-09-03 00:51:07,333 [main] WARN c.n.m.NhnMartShell [NhnMartShell.java:54] - 0을 입력하셨습니다 물건의 개수를 확인해주세요!
+2023-09-03 00:51:27,226 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:14] - NHN Mart에 오신것을 환영합니다.
+2023-09-03 00:51:34,656 [main] WARN c.n.m.NhnMartShell [NhnMartShell.java:49] - 찾는 식품이 없습니다!
+2023-09-03 11:25:59,298 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:14] - NHN Mart에 오신것을 환영합니다. 사고 싶은 물건을 골라주세요
+2023-09-03 11:26:05,392 [main] INFO c.n.m.NhnMartShell [Customer.java:40] - 총 가격은 14000 입니다
+2023-09-03 11:26:05,394 [main] INFO c.n.m.NhnMartShell [Customer.java:45] - 고객님 결제 후 잔액: 6000

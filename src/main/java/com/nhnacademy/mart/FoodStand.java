@@ -1,7 +1,6 @@
 package com.nhnacademy.mart;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
 
@@ -24,7 +23,6 @@ public class FoodStand {
             if (names.equals(foodName)) {
                 return foods.remove(count);
             }
-
             count++;
         }
         throw new IllegalArgumentException("재고가 부족합니다.");

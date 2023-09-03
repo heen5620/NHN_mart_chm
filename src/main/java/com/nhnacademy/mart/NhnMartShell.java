@@ -11,7 +11,7 @@ public class NhnMartShell {
 
     public static void main(String[] args) {
 //        System.out.println("NHN 마트에 오신 것을 환영합니다. 사고 싶은 물건을 골라주세요.");
-        logger.info("NHN Mart에 오신것을 환영합니다.");
+        logger.info("NHN Mart에 오신것을 환영합니다. 사고 싶은 물건을 골라주세요");
         mart = new NhnMart();
         mart.prepareMart();
 
@@ -37,9 +37,9 @@ public class NhnMartShell {
 
 
         System.out.print("> ");
-        String line = sc.nextLine();
+        String input = sc.nextLine();
 
-        String[] arr = line.split(" ");
+        String[] arr = input.split(" ");
 
         for (int i = 0; i < arr.length; i += 2) {
             String name = arr[i];

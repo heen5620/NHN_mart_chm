@@ -9,7 +9,7 @@ public class Basket {
         foods.add(food);
     }
 
-    public ArrayList<Food> getFoods(){
+    public ArrayList<Food> getFoods() {
         return foods;
     }
 
